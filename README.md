@@ -1,6 +1,12 @@
 # esx_nty_shops
 
+![alt text](https://media.discordapp.net/attachments/553708167595556876/877574701357101066/unknown.png)
+![alt text](https://media.discordapp.net/attachments/553708167595556876/877581510180503572/unknown.png)
+
+
 This resource based on esx_supermarket, I just changed the UI, optimized and added bunch of stuff.
+
+
 
 ## Installation
 ### Instal the resource
